@@ -6,6 +6,7 @@ int j;
 int i;	
 printf("Hello world\n");
 add haoun
+function haroun
 
 return 0;
 }
