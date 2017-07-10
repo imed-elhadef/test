@@ -1,6 +1,8 @@
 #include <stdio.h>
 
 int main() {
+fffffffffff
+fffffffffff
 add malek
 int j;
 int i;	
