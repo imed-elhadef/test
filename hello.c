@@ -2,7 +2,8 @@
 
 int main() {
 
-int j;	
+int j;
+int i;	
 printf("Hello world\n");
 
 
